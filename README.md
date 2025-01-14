@@ -13,3 +13,5 @@ Part 2
 1.	I used the first 4 cells from part 1 to initialize part 2.
 2.	I used Prof.’s example to extract all rows of data. 
 3.	I also used Prof.’s example as a base to create a list of rows.
+
+This is a first submission, with at least one more submission expected. 
